@@ -50,3 +50,13 @@ Exemplo de cenário:
       <summary>Dúvidas sobre o Git & Github?</summary>
       <p>Adiciomos um vídeo explicando o <strong>processo de entrega</strong> [do fork ao pull request] no Material Assincrono da <a href="https://classroom.google.com/w/NTM0NjA2NDg3MjIx/tc/NTM2NDg5NTQyODg4">A005 - Git e Github</a>. Esse vídeo também exemplifica situações que podem acontecer durante o fluxo de utilização do Git.</p>
    </details>
+   
+   # Projeto Scratch - Jogo de pegar bolinhas - Resultado 
+   
+   ### Nome do projeto: Missão RESGATE
+   Autor: Emerson Assis    assisefa07@gmail.com
+   
+   [Missão RESGATE](https://scratch.mit.edu/projects/714763714)
+   
+   (<iframe src="https://scratch.mit.edu/projects/714763714/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>)
+   
