@@ -56,7 +56,7 @@ Exemplo de cenário:
    ### Nome do projeto: Missão RESGATE
    Autor: Emerson Assis    assisefa07@gmail.com
    
-   [Missão RESGATE](https://scratch.mit.edu/projects/714763714)
+   [Missão RESGATE](<a href="https://scratch.mit.edu/projects/714763714" target="_blanck> </a>)
    
    (<iframe src="https://scratch.mit.edu/projects/714763714/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>)
    
